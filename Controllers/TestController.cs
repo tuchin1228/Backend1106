@@ -12,7 +12,7 @@ namespace Back1106.Controllers
 		{
 			return Ok(new
 			{
-				message = "App Service 後端部署"
+				message = "App Service 後端部署 dev"
 			});
 		}
 
